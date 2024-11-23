@@ -54,6 +54,9 @@
    npm install
    npm start
 
-2. cd backend
+
+2. Navigate to the `frontend` directory:
+   ```bash
+   cd backend
    npm install
    npm start
